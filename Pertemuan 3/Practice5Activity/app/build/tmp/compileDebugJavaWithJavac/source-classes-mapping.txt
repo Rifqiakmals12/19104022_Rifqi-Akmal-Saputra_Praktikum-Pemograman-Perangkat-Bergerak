@@ -1,6 +1,0 @@
-com/rifqiakmals_19104022/practice5activity/databinding/ActivityMainBinding.java
- com.rifqiakmals_19104022.practice5activity.databinding.ActivityMainBinding
-com/rifqiakmals_19104022/practice5activity/databinding/ActivityPractice5ReadDataBinding.java
- com.rifqiakmals_19104022.practice5activity.databinding.ActivityPractice5ReadDataBinding
-com/rifqiakmals_19104022/practice5activity/BuildConfig.java
- com.rifqiakmals_19104022.practice5activity.BuildConfig

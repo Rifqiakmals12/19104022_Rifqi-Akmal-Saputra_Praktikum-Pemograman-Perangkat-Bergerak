@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.rifqiakmals_19104022.practice5activity"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+8-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CALL_PHONE" />
+11-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:5:5-68
+11-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:5:22-66
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:6:5-66
+12-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:6:22-64
+13
+14    <application
+14-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:8:5-27:19
+15        android:allowBackup="true"
+15-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.7.0] C:\Users\rifqi\.gradle\caches\transforms-3\3287ed4cf8c32398866b0c1d2a55edb7\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher"
+19-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:10:9-43
+20        android:label="@string/app_name"
+20-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:11:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:12:9-54
+22        android:supportsRtl="true"
+22-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:13:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.Practice5Activity" >
+24-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:14:9-55
+25        <activity
+25-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:15:9-17:40
+26            android:name="com.rifqiakmals_19104022.practice5activity.Practice5ReadDataActivity"
+26-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:16:13-54
+27            android:exported="false" />
+27-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:17:13-37
+28        <activity
+28-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:18:9-26:20
+29            android:name="com.rifqiakmals_19104022.practice5activity.MainActivity"
+29-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:19:13-41
+30            android:exported="true" >
+30-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:20:13-36
+31            <intent-filter>
+31-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:21:13-25:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:22:17-69
+32-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:22:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:24:17-77
+34-->D:\File Kuliah\Semester 5\Praktikum Pemograman Bergerak\Pertemuan 2\Practice5Activity\app\src\main\AndroidManifest.xml:24:27-74
+35            </intent-filter>
+36        </activity>
+37    </application>
+38
+39</manifest>

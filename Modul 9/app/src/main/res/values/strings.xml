@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Modul 9</string>
+    <string name="name">Name</string>
+    <string name="default_name">Default Name</string>
+    <string name="email">email</string>
+    <string name="default_email">Default Email</string>
+    <string name="phone">phone</string>
+    <string name="default_phone">Default Phone</string>
+    <string name="age">Age</string>
+    <string name="default_age">Default Age</string>
+    <string name="tv_theme">Theme</string>
+    <string name="default_theme">Default Theme</string>
+    <string name="setting">Setting</string>
+    <string name="main_title">Main Title</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="save">Save</string>
+    <string name="setting_page">Setting Page</string>
+    <string name="field_required">Field Required</string>
+    <string name="email_is_not_valid">Email is not valid!</string>
+    <string name="field_digit_only">Digit Only</string>
+</resources>

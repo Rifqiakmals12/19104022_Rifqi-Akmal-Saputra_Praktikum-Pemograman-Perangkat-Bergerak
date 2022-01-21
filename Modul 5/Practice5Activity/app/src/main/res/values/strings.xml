@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practice5Activity</string>
+    <string name="bawa_data_prodi_ke_activity_lain">Bawa data prodi ke activity lain</string>
+    <string name="prodi_saya">Prodi Saya...</string>
+    <string name="btn_call_browser">browser</string>
+    <string name="btn_call_camera">call camera</string>
+    <string name="input_phone_number">Phone Number</string>
+    <string name="btn_call_phone">call phone</string>
+
+</resources>
